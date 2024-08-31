@@ -9,4 +9,3 @@ Pillow
 motor
 dnspython
 python-dotenv
-flask
